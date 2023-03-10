@@ -1,3 +1,3 @@
 # Zomato-Clone
 
-https://github.com/MaheshPatil30/Zomato-Clone.git
+https://maheshpatil30.github.io/Zomato-Clone/
